@@ -2,7 +2,7 @@ const Sdata = {
   shopItems: [
     {
       id: 7,
-      cover: "./images/shops/shops-1.png",
+      cover: "./AutoParts/images/shops/shops-1.png",
       name: "Instrument Cluster",
       price: "Rs 8999",
       discount: "25",
