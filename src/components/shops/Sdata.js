@@ -9,7 +9,7 @@ const Sdata = {
     },
     {
       id: 8,
-      cover: "./images/shops/shops-2.png",
+      cover: "./AutoParts/images/shops/shops-2.png",
       name: "Front Brake Disc",
       price: "Rs 1699",
       discount: "10",
