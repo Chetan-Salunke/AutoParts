@@ -3,47 +3,47 @@ import React from "react"
 const Categories = () => {
   const data = [
     {
-      cateImg: "./images/category/cat2.png",
+      cateImg: "./AutoParts/images/category/cat2.png",
       cateName: "Body Parts",
     },
     {
-      cateImg: "./images/category/cat2.png",
+      cateImg: "./AutoParts/images/category/cat2.png",
       cateName: "Lighting",
     },
     {
-      cateImg: "./images/category/cat3.png",
+      cateImg: "./AutoParts/images/category/cat3.png",
       cateName: "Suspension",
     },
     {
-      cateImg: "./images/category/cat4.png",
+      cateImg: "./AutoParts/images/category/cat4.png",
       cateName: "Air Conditioning",
     },
     {
-      cateImg: "./images/category/cat5.png",
+      cateImg: "./AutoParts/images/category/cat5.png",
       cateName: "Brake System",
     },
     {
-      cateImg: "./images/category/cat6.png",
+      cateImg: "./AutoParts/images/category/cat6.png",
       cateName: "Oils & Fluids",
     },
     {
-      cateImg: "./images/category/cat7.png",
+      cateImg: "./AutoParts/images/category/cat7.png",
       cateName: "Engine Parts",
     },
     {
-      cateImg: "./images/category/cat8.png",
+      cateImg: "./AutoParts/images/category/cat8.png",
       cateName: "Electrical",
     },
     {
-      cateImg: "./images/category/cat9.png",
+      cateImg: "./AutoParts/images/category/cat9.png",
       cateName: "Steering",
     },
     {
-      cateImg: "./images/category/cat11.png",
+      cateImg: "./AutoParts/images/category/cat11.png",
       cateName: "Wheels & Tyre",
     },
     {
-      cateImg: "./images/category/cat10.png",
+      cateImg: "./AutoParts/images/category/cat10.png",
       cateName: "Belt & Chain Drive",
     },
   ]

@@ -7,23 +7,23 @@ const Catg = () => {
       cateName: "GoMechanic",
     },
     {
-      cateImg: "./images/category/cat-2.png",
+      cateImg: "./AutoParts/images/category/cat-2.png",
       cateName: "JK Tyres",
     },
     {
-      cateImg: "./images/category/cat-3.png",
+      cateImg: "./AutoParts/images/category/cat-3.png",
       cateName: "Michelin Tyres",
     },
     {
-      cateImg: "./images/category/cat-4.png",
+      cateImg: "./AutoParts/images/category/cat-4.png",
       cateName: "Continental Tyres",
     },
     {
-      cateImg: "./images/category/cat-5.png",
+      cateImg: "./AutoParts/images/category/cat-5.png",
       cateName: "Goodyear Tyres",
     },
     {
-      cateImg: "./images/category/cat-6.png",
+      cateImg: "./AutoParts/images/category/cat-6.png",
       cateName: "New Era",
     },
   ]
