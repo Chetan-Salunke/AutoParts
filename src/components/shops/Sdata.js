@@ -16,7 +16,7 @@ const Sdata = {
     },
     {
       id: 9,
-      cover: "./images/shops/shops-3.png",
+      cover: "../AutoParts/images/shops/shops-3.png",
       name: "Front Brake Pad",
       price: "Rs 1599",
       discount: "50 ",

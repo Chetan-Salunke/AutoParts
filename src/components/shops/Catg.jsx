@@ -3,7 +3,7 @@ import React from "react"
 const Catg = () => {
   const data = [
     {
-      cateImg: "./images/category/cat-1.png",
+      cateImg: "./AutoParts/images/category/cat-1.png",
       cateName: "GoMechanic",
     },
     {
